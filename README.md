@@ -16,6 +16,5 @@ Ejemplo de la estructura del repositorio a subir
 	├── README.md
 	├── ch01-ex1.py
 	├── ch01-ex2.py
-	├── README.md
 	├── data
 	│   ├── image.jpg
