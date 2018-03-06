@@ -1,6 +1,7 @@
 # Basic Image Handling and Processing
 
-# Pedro Nel Mendoza Vanegas
+PEDRO NEL MENDOZA VANEGAS
+
 Este repositorio es acerca del capítulo 1 del libro guía del curso de Visión Artificial.Los ejemplos y ejercicios que serán desarrollados, están basados en el libro de Erik Solem titulado ``Programming Computer Vision with Python_ Tools and algorithms for analyzing images``.
 The contents about repository are the following: 
 
